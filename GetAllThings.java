@@ -2,15 +2,12 @@
 import becker.robots.*;
 
 /**
- * Assignment: Assignment # 3 You must program mark to go inside the house and
+ * You must program mark to go inside the house and
  * pick up all the Things that are at Street 1, avenue 0. You do not know how
  * many Things are there. If there are an odd number of Things in the backpack
  * place the things along avenue 2 starting at street 2. If there are an even
  * number of Things in the backpack, place the things along street 2 starting at
  * avenue 2.
- *
- * Submitted by: Nishit S Amin Program: Computer Systems Technology Software
- * Development And Networking Engineering File name: GetAllThings.java
  */
 public class GetAllThings {
 
